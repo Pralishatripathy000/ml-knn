@@ -1,0 +1,5 @@
+Parameter,Value
+Number of Neighbors,5
+Weighting,uniform
+Distance Metric,Euclidean
+Minkowski Power,2
